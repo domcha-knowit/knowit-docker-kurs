@@ -22,18 +22,6 @@ style: |
 
 ---
 
-# Detta behövs inför kursen
-
-Windows-datorer
-1. Datorer med Windows behöver ha Putty installerad.
-2. aws-linux-demo.ppk filen behöver sparas ned. Filen går att hitta på [Länk](https://knowit.sharepoint.com/:f:/r/sites/O365-Development/Shared%20Documents/Cloud%20native/SSH-key?csf=1&web=1&e=qbYYiW). Spara ned aws-linux-demo.ppk på valfri plats på hårddisken.
-
-MacOS/Linux datorer
-1. Datorer med MacOS och Linux har terminalprogram förinstallerad och behöver därför inte installera något särskilt program.
-2. aws-linux-demo.pem filen behöver sparas ned. Filen går att hitta på [Länk](https://knowit.sharepoint.com/:f:/r/sites/O365-Development/Shared%20Documents/Cloud%20native/SSH-key?csf=1&web=1&e=qbYYiW). Spara ned awd-linux-demo.pem på ~/.ssh/ katalogen.
-
----
-
 # Vad är Docker?
 
 - Containrar är som snabba och lättviktiga virtuella maskiner.
