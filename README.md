@@ -22,6 +22,10 @@ style: |
 
 ---
 
+Mentimeter - gå till menti.com och ange koden: 5766 0519
+
+---
+
 # Vad är Docker?
 
 - Containrar är som snabba och lättviktiga virtuella maskiner.
@@ -124,16 +128,9 @@ Använd kommandot `docker rmi <imageid>`
 
 ---
 
-# Frågor:
-1. 
-2. 
-3. 
-4. 
-
----
 
 # Avslut och utvärdering:
 
-Mentimeter - 
+Mentimeter - gå till menti.com och ange koden: 2179 658 
 
 ---
