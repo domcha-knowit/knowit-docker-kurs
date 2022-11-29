@@ -22,7 +22,7 @@ style: |
 
 ---
 
-Mentimeter - gå till menti.com och ange koden: 5766 0519
+Mentimeter - gå till menti.com och ange koden: 8562 4187
 
 ---
 
