@@ -26,33 +26,33 @@ Mentimeter - gå till menti.com och ange koden: 8562 4187
 
 ---
 
-| Deltagare 	| AWS host                                            	|
-|-----------	|-----------------------------------------------------	|
-| Azeb      	| ec2-13-53-44-108.eu-north-1.compute.amazonaws.com   	|
-| Dennis    	| ec2-13-53-184-21.eu-north-1.compute.amazonaws.com   	|
-| Erik      	| ec2-16-170-216-232.eu-north-1.compute.amazonaws.com 	|
-| Emelie    	| ec2-13-49-229-251.eu-north-1.compute.amazonaws.com  	|
-| Johan B   	| ec2-13-53-155-119.eu-north-1.compute.amazonaws.com  	|
-| Johan Å   	| ec2-13-48-134-18.eu-north-1.compute.amazonaws.com   	|
-| Jonathan  	| ec2-13-48-124-40.eu-north-1.compute.amazonaws.com   	|
-| Patrik    	| ec2-13-53-218-63.eu-north-1.compute.amazonaws.com   	|
-| Simon     	| ec2-13-53-145-213.eu-north-1.compute.amazonaws.com  	|
-| Sofie     	| ec2-13-48-131-179.eu-north-1.compute.amazonaws.com  	|
-| Louise B  	| ec2-16-170-207-168.eu-north-1.compute.amazonaws.com 	|
-| Louise J  	| ec2-13-51-44-60.eu-north-1.compute.amazonaws.com    	|
-| Josefine  	| ec2-13-49-158-118.eu-north-1.compute.amazonaws.com  	|
-| Emil Ö    	| ec2-13-50-107-162.eu-north-1.compute.amazonaws.com  	|
-| Emil T    	| ec2-13-50-99-19.eu-north-1.compute.amazonaws.com    	|
-| Olof      	| ec2-13-49-231-85.eu-north-1.compute.amazonaws.com   	|
-| Frida     	| ec2-13-50-15-132.eu-north-1.compute.amazonaws.com   	|
-| Jennifer  	| ec2-13-53-235-48.eu-north-1.compute.amazonaws.com   	|
-| John      	| ec2-16-170-35-127.eu-north-1.compute.amazonaws.com  	|
-| Extra 1   	| ec2-13-50-112-143.eu-north-1.compute.amazonaws.com  	|
-| Extra 2   	| ec2-16-170-209-3.eu-north-1.compute.amazonaws.com   	|
-| Extra 3   	| ec2-16-170-168-6.eu-north-1.compute.amazonaws.com   	|
-| Extra 4   	| ec2-13-50-105-96.eu-north-1.compute.amazonaws.com   	|
-| Extra 5   	| ec2-13-51-45-123.eu-north-1.compute.amazonaws.com   	|
-| Extra 6   	| ec2-13-53-184-14.eu-north-1.compute.amazonaws.com   	|
+| Deltagare 	| AWS host                                           	|
+|-----------	|----------------------------------------------------	|
+| Azeb      	| ec2-13-50-15-237.eu-north-1.compute.amazonaws.com  	|
+| Dennis    	| ec2-13-53-192-169.eu-north-1.compute.amazonaws.com 	|
+| Erik      	| ec2-16-170-216-57.eu-north-1.compute.amazonaws.com 	|
+| Emelie    	| ec2-13-48-85-109.eu-north-1.compute.amazonaws.com  	|
+| Johan B   	| ec2-13-50-105-66.eu-north-1.compute.amazonaws.com  	|
+| Johan Å   	| ec2-13-49-175-20.eu-north-1.compute.amazonaws.com  	|
+| Jonathan  	| ec2-13-48-134-216.eu-north-1.compute.amazonaws.com 	|
+| Patrik    	| ec2-13-48-6-218.eu-north-1.compute.amazonaws.com   	|
+| Simon     	| ec2-16-170-216-34.eu-north-1.compute.amazonaws.com 	|
+| Sofie     	| ec2-13-53-136-70.eu-north-1.compute.amazonaws.com  	|
+| Louise B  	| ec2-13-50-99-163.eu-north-1.compute.amazonaws.com  	|
+| Louise J  	| ec2-13-48-78-29.eu-north-1.compute.amazonaws.com   	|
+| Josefine  	| ec2-13-53-192-253.eu-north-1.compute.amazonaws.com 	|
+| Emil Ö    	| ec2-13-50-112-94.eu-north-1.compute.amazonaws.com  	|
+| Emil T    	| ec2-13-48-49-226.eu-north-1.compute.amazonaws.com  	|
+| Olof      	| ec2-13-50-108-208.eu-north-1.compute.amazonaws.com 	|
+| Frida     	| ec2-13-53-46-255.eu-north-1.compute.amazonaws.com  	|
+| Jennifer  	| ec2-13-48-31-28.eu-north-1.compute.amazonaws.com   	|
+| John      	| ec2-13-49-158-72.eu-north-1.compute.amazonaws.com  	|
+| Extra 1   	| ec2-13-50-17-99.eu-north-1.compute.amazonaws.com   	|
+| Extra 2   	| ec2-13-53-117-118.eu-north-1.compute.amazonaws.com 	|
+| Extra 3   	| ec2-16-171-61-184.eu-north-1.compute.amazonaws.com 	|
+| Extra 4   	| ec2-16-171-59-207.eu-north-1.compute.amazonaws.com 	|
+| Extra 5   	| ec2-13-53-172-242.eu-north-1.compute.amazonaws.com 	|
+| Extra 6   	| ec2-13-51-254-107.eu-north-1.compute.amazonaws.com 	|
 
 ---
 
